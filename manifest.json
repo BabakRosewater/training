@@ -1,0 +1,289 @@
+{
+  "title": "Cam Clark Hyundai — Sales Training Hub",
+  "pdf": "CAM_CLARK_SALES_JOURNEY_SCRIPT_GUIDE.pdf",
+  "sections": [
+    {
+      "id": "power-greetings",
+      "title": "Power Greetings",
+      "page": 5,
+      "items": [
+        { "id": "power-greetings-objective", "title": "Objective", "page": 5 },
+        { "id": "scenario-1-parking-walkins", "title": "Scenario 1: Customer Parking / Walk-Ins", "page": 6 },
+        { "id": "scenario-2-wandering-customers", "title": "Scenario 2: Wandering Customers", "page": 7 },
+        { "id": "scenario-3-window-crack", "title": "Scenario 3: Window Crack", "page": 8 },
+        { "id": "scenario-4-weather-proof-greetings", "title": "Scenario 4: Weather-Proof Adapting Greetings for All Seasons", "page": 9 }
+      ]
+    },
+    {
+      "id": "transition-to-discovery",
+      "title": "Transition to Discovery / Pre-Appraisal",
+      "page": 10,
+      "items": [
+        { "id": "transition-to-discovery-1", "title": "Transition to Discovery / Pre-Appraisal", "page": 10 },
+        { "id": "transition-to-discovery-2", "title": "Transition to Discovery / Pre-Appraisal", "page": 11 }
+      ]
+    },
+    {
+      "id": "discovery",
+      "title": "Discovery",
+      "page": 12,
+      "items": [
+        {
+          "id": "discovery-with-trade",
+          "title": "With Trade-In",
+          "page": 12,
+          "items": [{ "id": "discovery-questions-with-trade", "title": "Discovery Questions", "page": 12 }]
+        },
+        {
+          "id": "discovery-without-trade",
+          "title": "Without Trade-In",
+          "page": 13,
+          "items": [{ "id": "key-questions-without-trade", "title": "Explore These Key Questions:", "page": 13 }]
+        },
+        {
+          "id": "advanced-discovery-connection",
+          "title": "Advanced Discovery / Building Connection",
+          "page": 14,
+          "items": [{ "id": "sales-approach", "title": "Sales Approach", "page": 14 }]
+        },
+        {
+          "id": "opening-questions-preferences",
+          "title": "Opening Questions To Understand Preferences",
+          "page": 17,
+          "items": [
+            { "id": "show-genuine-interest", "title": "Show Genuine Interest in Their Choice:", "page": 17 },
+            { "id": "feature-package-preferences", "title": "Feature & Package Preferences:", "page": 17 },
+            { "id": "alternative-vehicles-comparison", "title": "Alternative Vehicles & Comparison:", "page": 18 },
+            { "id": "linking-current-vehicle", "title": "Linking to Their Current Vehicle:", "page": 18 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "explore-options",
+      "title": "Building On Preferences To Explore Options",
+      "page": 19,
+      "items": [
+        { "id": "seen-online-specific-vehicle", "title": "If They've Seen a Specific Vehicle Online:", "page": 19 },
+        { "id": "immediate-availability-options", "title": "For Immediate Availability Options:", "page": 19 },
+        { "id": "open-to-market-value", "title": "For Customers Open to Market Value:", "page": 19 },
+        { "id": "ideal-vehicle-not-in-stock", "title": "If the Ideal Vehicle Isn't in Stock:", "page": 19 }
+      ]
+    },
+    {
+      "id": "selection-strategy",
+      "title": "Selection & Alternate Selection Strategy",
+      "page": 20,
+      "items": [
+        {
+          "id": "primary-selection",
+          "title": "Introducing the Primary Selection",
+          "page": 20,
+          "items": [{ "id": "primary-transition-language", "title": "Transition Language:", "page": 20 }]
+        },
+        {
+          "id": "alternate-selection",
+          "title": "Introducing the Alternate Selection",
+          "page": 20,
+          "items": [
+            { "id": "preparing-the-customer", "title": "Preparing the Customer:", "page": 20 },
+            { "id": "alternate-transition-language", "title": "Transition Language:", "page": 20 }
+          ]
+        },
+        {
+          "id": "ideal-unavailable",
+          "title": "Offering an Alternative When the Ideal Vehicle is Unavailable",
+          "page": 21,
+          "items": [
+            { "id": "presenting-unique-option", "title": "Presenting a Unique Option:", "page": 21 },
+            { "id": "transitional-phrases-build-value", "title": "Transitional Phrases to Build Value", "page": 21 },
+            { "id": "reinforce-key-features", "title": "To Reinforce Key Features:", "page": 21 },
+            { "id": "attentiveness-to-detail", "title": "To Demonstrate Attentiveness to Detail:", "page": 21 },
+            { "id": "address-preferences-concerns", "title": "To Address Common Preferences and Concerns:", "page": 21 }
+          ]
+        },
+        { "id": "why-this-matters-selection", "title": "Why This Matters", "page": 22 }
+      ]
+    },
+    {
+      "id": "emotional-test-drive",
+      "title": "Emotional Test Drive: Connecting Customers to Their Future Vehicle",
+      "page": 23,
+      "items": [
+        { "id": "introducing-the-interior", "title": "Introducing The Interior", "page": 24 },
+        { "id": "preparing-for-the-drive", "title": "Preparing For The Drive", "page": 24 },
+        { "id": "switching-driver-positions", "title": "Switching Driver Positions", "page": 25 },
+        { "id": "before-returning-to-dealership", "title": "Before Returning To The Dealership", "page": 26 },
+        { "id": "engaging-imagination", "title": "Engaging The Customer’s Imagination", "page": 26 },
+        { "id": "transition-to-final-discussion", "title": "Transition To Final Discussion", "page": 26 }
+      ]
+    },
+    {
+      "id": "hood-ornament",
+      "title": "Hood Ornament: Closing the Deal",
+      "page": 27,
+      "items": [
+        {
+          "id": "hood-ornament-yes",
+          "title": "Hood Ornament → Yes!",
+          "page": 27,
+          "items": [
+            { "id": "gauge-excitement-yes", "title": "Gauge Excitement:", "page": 27 },
+            { "id": "closing-commitment", "title": "Closing the Commitment:", "page": 27 },
+            { "id": "setting-next-step", "title": "Setting Up the Next Step:", "page": 27 }
+          ]
+        },
+        {
+          "id": "hood-ornament-no",
+          "title": "Hood Ornament → No (Or Not Yet)",
+          "page": 28,
+          "items": [
+            { "id": "gauge-interest-no", "title": "Gauge Interest:", "page": 28 },
+            { "id": "uncover-obstacle", "title": "Uncover the Obstacle:", "page": 28 },
+            { "id": "validate-reframe", "title": "Validate & Reframe:", "page": 28 },
+            { "id": "unit-not-in-stock", "title": "Unit Not In Stock", "page": 28 },
+            { "id": "prepare-for-process", "title": "Prepare for the Process:", "page": 28 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objections",
+      "title": "Common Objections & Word-Tracks",
+      "page": 29,
+      "items": [
+        { "id": "overcoming-common-hesitations", "title": "Overcoming Common Hesitations", "page": 30 },
+        { "id": "first-stop-hesitation", "title": "First Stop Hesitation:", "page": 30 },
+        { "id": "spousal-consultation", "title": "Spousal Consultation:", "page": 30 },
+        { "id": "transition-to-paperwork", "title": "Transition To Paperwork", "page": 30 }
+      ]
+    },
+    {
+      "id": "art-of-turns",
+      "title": "Facilitating a Seamless Handoff: The Art of Turns",
+      "page": 31,
+      "items": [
+        { "id": "turn-1-stalls", "title": "1. When A Conversation Stalls", "page": 32 },
+        { "id": "turn-2-wants-to-leave", "title": "2. When The Customer Wants To Leave", "page": 32 },
+        { "id": "turn-3-proactive", "title": "3. Proactive Turn To Enhance Value", "page": 32 },
+        { "id": "turn-4-sales-manager", "title": "4. Sales Manager Turn", "page": 33 },
+        { "id": "turn-5-business-manager", "title": "5. Business Manager Turn", "page": 33 },
+        { "id": "turn-6-sales-to-sales", "title": "6. Sales To Sales Turn", "page": 33 },
+        { "id": "why-it-matters-turns", "title": "Why It Matters", "page": 34 }
+      ]
+    },
+    {
+      "id": "dealership-tour",
+      "title": "Dealership Tour & Introductions Guide",
+      "page": 35,
+      "items": [
+        { "id": "transition-to-tour", "title": "Transition to Dealership Tour", "page": 35 },
+        {
+          "id": "service-parts-intros",
+          "title": "Service & Parts Introductions",
+          "page": 36,
+          "items": [
+            { "id": "highlight-service-divisions", "title": "Highlighting Our Service Divisions", "page": 36 },
+            { "id": "main-shop-services", "title": "Main Shop Services", "page": 36 },
+            { "id": "express-shop-services", "title": "Express Shop Services", "page": 36 },
+            { "id": "manager-introductions", "title": "Manager Introductions", "page": 36 },
+            { "id": "sales-manager-intro", "title": "Sales Manager Introduction", "page": 36 },
+            { "id": "finance-manager-intro", "title": "Finance Manager Introduction", "page": 36 }
+          ]
+        },
+        { "id": "facility-highlights", "title": "Facility Highlights While Touring", "page": 37 },
+        { "id": "transition-to-selection", "title": "Transition to Vehicle Selection", "page": 38 },
+        { "id": "purpose-of-tour", "title": "Purpose of the Tour", "page": 38 }
+      ]
+    },
+    {
+      "id": "paperwork-process",
+      "title": "Paperwork Process Script",
+      "page": 39,
+      "items": [
+        { "id": "paperwork-transitions", "title": "Paperwork Transitions", "page": 39 },
+        { "id": "gather-statement-info", "title": "Gather Customer Statement Information", "page": 39 },
+        { "id": "get-numbers-from-desk", "title": "Get Numbers from the Desk", "page": 39 },
+        {
+          "id": "presentation-of-numbers",
+          "title": "Presentation of the Numbers",
+          "page": 40,
+          "items": [
+            { "id": "numbers-with-kbb-trade", "title": "With Kelley Blue Book (Trade Involved)", "page": 40 },
+            { "id": "numbers-without-trade", "title": "Without Trade", "page": 40 }
+          ]
+        },
+        { "id": "written-commitment", "title": "Getting the Written Commitment", "page": 41 },
+        { "id": "basic-objection-isolation", "title": "Basic Objection Isolation", "page": 41 },
+        {
+          "id": "basic-objection-handling",
+          "title": "Basic Objection Handling",
+          "page": 42,
+          "items": [
+            { "id": "budget-concern", "title": "Budget Concern", "page": 42 },
+            { "id": "need-to-think", "title": "\"I Need to Think About It\"", "page": 42 },
+            { "id": "wait-until", "title": "\"We are Going to Wait Until...\"", "page": 42 }
+          ]
+        },
+        {
+          "id": "additional-objection-responses",
+          "title": "Additional Objection Responses",
+          "page": 43,
+          "items": [
+            { "id": "talk-to-spouse", "title": "\"I need to talk to my spouse\"", "page": 43 },
+            { "id": "too-expensive", "title": "\"It’s too expensive\"", "page": 43 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after-the-yes",
+      "title": "AFTER THE YES! Post-Purchase Customer Experience",
+      "page": 44,
+      "items": [
+        { "id": "set-first-service-appt", "title": "Setting Up the First Service Appointment", "page": 44 },
+        { "id": "arrange-manufacturer-services", "title": "Arranging Manufacturer Services", "page": 44 },
+        { "id": "transition-to-finance-intro", "title": "Transition to Finance Manager Introduction", "page": 45 },
+        { "id": "why-step-matters-finance", "title": "Why This Step Matters", "page": 45 },
+        { "id": "customer-interview-finance", "title": "Customer Interview with Finance", "page": 46 },
+        {
+          "id": "finance-interview-detail",
+          "title": "Finance Interview (Detail)",
+          "page": 47,
+          "items": [
+            { "id": "finance-manager-introduction", "title": "Finance Manager Introduction", "page": 47 },
+            { "id": "information-verification", "title": "Information Verification", "page": 47 },
+            { "id": "finance-discovery-questions", "title": "Finance Discovery Questions", "page": 47 }
+          ]
+        },
+        { "id": "finance-transition", "title": "Transition", "page": 48 }
+      ]
+    },
+    {
+      "id": "delivery-experience",
+      "title": "Vehicle Delivery Experience",
+      "page": 49,
+      "items": [
+        { "id": "transition-from-finance", "title": "Transition from Finance", "page": 49 },
+        { "id": "capture-the-memory", "title": "Capture the Memory", "page": 49 },
+        { "id": "inspection-feature-overview", "title": "Vehicle Inspection & Feature Overview", "page": 49 },
+        { "id": "post-feature-explanation", "title": "Post-Feature Explanation", "page": 49 },
+        { "id": "ask-for-referrals", "title": "Asking for Referrals", "page": 50 },
+        { "id": "request-feedback", "title": "Requesting Feedback", "page": 50 },
+        { "id": "followup-redelivery-options", "title": "Setting Up Follow-Up and Redelivery Options", "page": 50 },
+        { "id": "final-thank-you", "title": "Final Thank You", "page": 50 }
+      ]
+    },
+    {
+      "id": "follow-up-templates",
+      "title": "Customer Follow-Up Templates",
+      "page": 51,
+      "items": [
+        { "id": "tail-light-text", "title": "Tail Light Text", "page": 51 },
+        { "id": "day-after-call", "title": "Day-After Call", "page": 51 },
+        { "id": "first-service-reminder-call", "title": "First Service Reminder Call", "page": 52 }
+      ]
+    }
+  ]
+}
+```
